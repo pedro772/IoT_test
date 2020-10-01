@@ -1,0 +1,8 @@
+body {
+    background-color: #cce6ff;
+}
+
+body #luz1, #luz2, #luz3, #luz4, #luz5, #luz6 {
+    width: 50pz;
+    height: 75px;
+}
